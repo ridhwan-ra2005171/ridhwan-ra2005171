@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ridhwanathaullah18@gmail.com**
 
-- 📄 Know about my experiences [Research Assistant in Machine Learning](Research Assistant in Machine Learning)
+- 📄 Know about my experiences [Research Assistant](Research Assistant in Machine Learning in Environmental Science Department)
 
 - ⚡ Fun fact **I like to watch and play football, finished Elden Ring with 0 Deaths**
 
