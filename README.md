@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridhwan Athaullah</h1>
 <h3 align="center">A dedicated developer from Indonesia, currently residing in Qatar.</h3>
 
-- 🔭 I’m currently working on **AI mobile application on Tire Treads**
+- 🔭 I’m currently learning about cloud deployment
+
+-  🌟 Most Recent Project -> **AI mobile application on Tire Treads**
 
 - 🌱 I’m currently learning **Everything 🧐**
 
