@@ -1,3 +1,5 @@
+<img alt="intro banner" src="./assets/images/banner.svg">
+
 <h1 align="center">Hi 👋, I'm Ridhwan Athaullah</h1>
 <h3 align="center">A dedicated developer from Indonesia, currently residing in Qatar.</h3>
 
