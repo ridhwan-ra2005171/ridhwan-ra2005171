@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ridhwan Athaullah</h1>
 <h3 align="center">A dedicated developer from Indonesia, currently residing in Qatar.</h3>
 
-- 🔭 I’m currently a Software Developer at QSTP
+- 🔭 Worked with Naseh - First ever Legal Tech Company in Qatar.
 
 -  🌟 Most Recent Project -> **AI mobile application on Tire Treads**
 
