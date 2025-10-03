@@ -1,11 +1,11 @@
 <img alt="intro banner" src="./banner.svg">
 
 <h1 align="center">Hi 👋, I'm Ridhwan Athaullah</h1>
-<h3 align="center">A dedicated developer from Indonesia, currently residing in Qatar.</h3>
+<h3 align="center">A dedicated developer from Indonesia, currently residing in Germany for Masters</h3>
 
 - 🔭 Worked with Naseh - First ever Legal Tech Company in Qatar.
 
--  🌟 Most Recent Project -> **AI mobile application on Tire Treads**
+-  🌟 Most Recent Project -> **AI mobile application on Tire Treads** | **AI Web Application for Expense Management**
 
 - 🌱 I’m currently learning **Everything 🧐**
 
